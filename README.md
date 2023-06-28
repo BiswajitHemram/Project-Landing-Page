@@ -36,4 +36,4 @@ Colors and font style
 
 credit for photo : https://pixabay.com/photos/programming-html-css-javascript-1873854/
 
-Live Preview: biswajithemram.github.io/Project-Landing-Page
+Live Preview: https://biswajithemram.github.io/Project-Landing-Page/
