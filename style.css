@@ -81,3 +81,41 @@ button{
     width: 450px;
     height: 250px;
 }
+
+/* information  */
+
+.info{
+    text-align: center;
+    padding: 45px;
+}
+
+.info h2{
+    font-size: 36px;
+    font-weight: bolder;
+    color:#1F2937;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 50px;
+}
+
+.card{
+    height: 236px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.one,.two,.three,.four{
+    align-self: center;
+}
+
+div.border{
+    border: 5px solid #3882F6;
+    width: 140px;
+    height: 140px;
+    border-radius: 10px;
+}
