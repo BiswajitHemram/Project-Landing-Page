@@ -1,0 +1,1 @@
+This is a simple landing project for The odin Project Assignment
