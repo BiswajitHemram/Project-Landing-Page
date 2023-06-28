@@ -33,3 +33,5 @@ Colors and font style
 8. Quote text 
 
 36px light italic #1F2937
+
+credit for photo : https://pixabay.com/photos/programming-html-css-javascript-1873854/
